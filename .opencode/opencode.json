@@ -1,6 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "plugin": [
-    "archai-agent-workflows@git+https://github.com/ArchAIHarness/agent-workflows.git#64ad7a2fa70efb9e0f540056ac1d146e9efc6372"
+    "archai-agent-workflows@git+https://github.com/ArchAIHarness/agent-workflows.git"
   ]
 }

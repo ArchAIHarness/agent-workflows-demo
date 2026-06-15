@@ -20,13 +20,13 @@ OpenCode project config:
 .opencode/opencode.json
 ```
 
-Current pinned plugin commit:
+Current plugin configuration follows the latest published Git plugin package:
 
 ```json
 {
   "$schema": "https://opencode.ai/config.json",
   "plugin": [
-    "archai-agent-workflows@git+https://github.com/ArchAIHarness/agent-workflows.git#64ad7a2fa70efb9e0f540056ac1d146e9efc6372"
+    "archai-agent-workflows@git+https://github.com/ArchAIHarness/agent-workflows.git"
   ]
 }
 ```
@@ -57,7 +57,19 @@ Expected skills from the package:
 
 - `formal-resume-builder`
 - `ddd-java-developer`
+- `zhihu-article-manager`
 - `code-quality`
+- `using-superpowers`
+- `brainstorming`
+
+Expected tools from the package:
+
+- `content_prepare_package`
+- `zhihu_prepare_publish`
+- `zhihu_prepare_article`
+- `zhihu_browser_setup_guide`
+
+The plugin also auto-registers `mcp.playwright` and `mcp.chrome-devtools` when they are missing, so browser automation can be tested after restarting OpenCode.
 
 ## Repository hygiene
 

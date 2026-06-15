@@ -14,6 +14,7 @@ Thumbs.db
 .opencode/package.json
 .opencode/package-lock.json
 .opencode/bun.lock
+.playwright-mcp/
 
 # Node / package managers
 node_modules/
