@@ -83,4 +83,3 @@ OpenCode may generate local package files under `.opencode/` when installing or 
 ## Related repositories
 
 - <https://github.com/ArchAIHarness/agent-workflows>
-- <https://github.com/ArchAIHarness/skills>
