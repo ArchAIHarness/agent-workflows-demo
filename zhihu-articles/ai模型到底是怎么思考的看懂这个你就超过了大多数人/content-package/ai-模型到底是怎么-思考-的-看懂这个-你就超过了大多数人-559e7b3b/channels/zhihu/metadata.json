@@ -1,0 +1,31 @@
+{
+  "type": "channel-package",
+  "channel": "zhihu",
+  "platform": "zhihu",
+  "title": "AI 模型到底是怎么“思考”的？看懂这个，你就超过了大多数人",
+  "summary": "面向零基础读者，用通俗语言解释 AI 模型如何通过训练学习语言规律，并根据上下文预测最可能的回答，同时说明幻觉、验证和正确使用 AI 的关键。",
+  "tags": [
+    "AI",
+    "大模型",
+    "人工智能",
+    "AI入门"
+  ],
+  "canonical_url": "",
+  "source_content_package": "/Users/weizuxiao/Documents/workspaces/技能管理/技能演示/zhihu-articles/ai模型到底是怎么思考的看懂这个你就超过了大多数人/content-package/ai-模型到底是怎么-思考-的-看懂这个-你就超过了大多数人-559e7b3b",
+  "channel_actions": [
+    "fetch-channel-content",
+    "save-draft-with-browser-automation",
+    "publish-after-human-confirmation"
+  ],
+  "generated_at": "2026-06-16T03:21:52.402Z",
+  "publish_gate": "manual-confirmation-required",
+  "sensitive_findings": [],
+  "checklist": [
+    "标题长度正常",
+    "摘要已生成",
+    "标签已准备：AI、大模型、人工智能、AI入门",
+    "未检测到代码块",
+    "未设置原文链接",
+    "发布前人工确认：标题、首屏三段、标签、敏感信息、外链、版权"
+  ]
+}

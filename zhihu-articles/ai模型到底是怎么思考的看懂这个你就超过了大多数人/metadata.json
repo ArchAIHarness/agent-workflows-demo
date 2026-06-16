@@ -1,0 +1,12 @@
+{
+  "title": "AI 模型到底是怎么“思考”的？看懂这个，你就超过了大多数人",
+  "source_edit_url": "https://zhuanlan.zhihu.com/p/2049935040998646864/edit",
+  "word_count": "字数：1940",
+  "cover": "illustrations/01-cover-ai-model-thinking.jpg",
+  "body_images": [
+    "illustrations/02-super-speaker-next-token.png",
+    "illustrations/03-training-feedback-loop.png",
+    "illustrations/04-ai-hallucination-verification.png"
+  ],
+  "status": "recovered-from-zhihu-draft"
+}
